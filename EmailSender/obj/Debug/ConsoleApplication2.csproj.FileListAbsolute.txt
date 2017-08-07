@@ -1,0 +1,16 @@
+c:\users\waldes\documents\visual studio 2015\Projects\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe.config
+c:\users\waldes\documents\visual studio 2015\Projects\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.csprojResolveAssemblyReference.cache
+c:\users\waldes\documents\visual studio 2015\Projects\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe
+c:\users\waldes\documents\visual studio 2015\Projects\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.pdb
+c:\users\waldes\documents\visual studio 2015\Projects\ConsoleApplication2\ConsoleApplication2\bin\Debug\EASendMail45.dll
+c:\users\waldes\documents\visual studio 2015\Projects\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.exe
+c:\users\waldes\documents\visual studio 2015\Projects\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.pdb
+c:\users\waldes\documents\visual studio 2015\Projects\ConsoleApplication2\ConsoleApplication2\bin\Debug\Common.Logging.Core.dll
+c:\users\waldes\documents\visual studio 2015\Projects\ConsoleApplication2\ConsoleApplication2\bin\Debug\Common.Logging.dll
+c:\users\waldes\documents\visual studio 2015\Projects\ConsoleApplication2\ConsoleApplication2\bin\Debug\Quartz.dll
+c:\users\waldes\documents\visual studio 2015\Projects\ConsoleApplication2\ConsoleApplication2\bin\Debug\Common.Logging.pdb
+c:\users\waldes\documents\visual studio 2015\Projects\ConsoleApplication2\ConsoleApplication2\bin\Debug\Common.Logging.xml
+c:\users\waldes\documents\visual studio 2015\Projects\ConsoleApplication2\ConsoleApplication2\bin\Debug\Common.Logging.Core.pdb
+c:\users\waldes\documents\visual studio 2015\Projects\ConsoleApplication2\ConsoleApplication2\bin\Debug\Common.Logging.Core.xml
+c:\users\waldes\documents\visual studio 2015\Projects\ConsoleApplication2\ConsoleApplication2\bin\Debug\Quartz.pdb
+c:\users\waldes\documents\visual studio 2015\Projects\ConsoleApplication2\ConsoleApplication2\bin\Debug\Quartz.xml
